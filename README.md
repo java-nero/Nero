@@ -7,7 +7,7 @@
 
 加合作方Java架构学习交流Q群：184120157 找管理小姐姐免费获取或者直接添加管理QQ：1529047065 免费领取
 
-点击链接加入群聊【Java进阶之路】：https://jq.qq.com/?_wv=1027&k=kWglArGZ
+**点击链接加入群聊【Java进阶之路】找管理员免费领取：https://jq.qq.com/?_wv=1027&k=kWglArGZ**
 
 ![CSDN文末二维码](https://user-images.githubusercontent.com/85689087/121644802-10da2800-cac6-11eb-84c3-db2aa2e04f52.png)
 
